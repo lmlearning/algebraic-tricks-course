@@ -1,4 +1,4 @@
-# Algebraic Tricks
+# Interactive Algebra Tricks Course
 
 An interactive algebra course built with React, Vite and KaTeX for mathematical notation.
 
